@@ -105,7 +105,7 @@
     "webpack": "4.25.1",
     "webpack-bundle-analyzer": "3.0.3",
     "webpack-chain": "4.11.0",
-    "webpack-dev-server": "3.1.14",
+    "webpack-dev-server": "lopugit/webpack-dev-server#v3.1.14.1-build",
     "webpack-merge": "4.1.4",
     "webpack-node-externals": "1.7.2",
     "workbox-webpack-plugin": "3.6.3"
